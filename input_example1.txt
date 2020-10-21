@@ -1,0 +1,26 @@
+10
+Cidade do Mexico
+80.713937 57.406936
+Guarulhos
+38.67153 97.039646
+Hong Kong
+2.797919 -35.300138
+Florianopolis
+-67.529481 39.976455
+Sao Paulo
+22.698894 36.315485
+Mumbai
+60.527568 39.530113
+Aguas de Sao Pedro
+-54.230404 -21.5242
+Nova Iorque
+92.305747 82.022292
+Seul
+-6.963851 54.325348
+Pequim
+97.370834 -65.206372
+20
+
+2
+Seul
+Mumbai
