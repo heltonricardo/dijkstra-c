@@ -4,17 +4,17 @@
 
 O algoritmo de **Dijkstra** foi concebido pelo cientista da computação holandês **_Edsger Dijkstra_** como uma técnica para encontrar o caminho mais curto entre dois nós em um grafo ponderado. Ele é particularmente útil em problemas de roteamento em redes, como em sistemas de navegação e em telecomunicações.
 
-## 📝 Sobre o Projeto
+## 📝 Sobre o projeto
 
 Este é um programa em C desenvolvido para calcular caminhos mínimos em grafos usando o algoritmo de **Dijkstra**. Ele permite encontrar o caminho mais curto entre dois vértices em um grafo ponderado.
 
-## Funcionalidades Principais 🛠️
+## Principais funcionalidades 🛠️
 
 - **`Entrada de grafo`**: Permite ao usuário fornecer um grafo ponderado como entrada, especificando os vértices e as arestas com seus respectivos pesos.
 - **`Cálculo de menor caminho`**: Utiliza o algoritmo de **Dijkstra** para encontrar o menor caminho entre dois vértices especificados pelo usuário.
 - **`Saída de resultados`**: Apresenta o caminho mais curto encontrado e seu custo total.
 
-## Como Utilizar 🚀
+## 🚀 Como utilizar
 
 Para utilizar este programa, siga estas etapas simples:
 
