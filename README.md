@@ -30,4 +30,8 @@ Se você quiser contribuir para este projeto, sinta-se à vontade para abrir pro
 
 ## 🏅 Créditos
 
-Este projeto foi desenvolvido como trabalho para a disciplina de **Estrutura de Dados (EDDA3)**, ministrada pelo Professor Marques Sousa ([@marquesmoreirasousa](https://github.com/marquesmoreirasousa)) em outubro de 2020.
+Este projeto foi desenvolvido como trabalho para a disciplina de **Estrutura de Dados (EDDA3)**, ministrada pelo **Professor Marques Sousa** ([@marquesmoreirasousa](https://github.com/marquesmoreirasousa)) em outubro de 2020.
+
+## ⚖️ Licença
+
+[MIT License](./LICENSE)
